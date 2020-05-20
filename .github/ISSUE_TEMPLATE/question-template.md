@@ -1,16 +1,20 @@
 ---
 name: Question template
 about: Questions
-title: ''
+title: 'Questions about CefSharp'
 labels: ''
 assignees: ''
 
 ---
 
 - What version are you using? (exact version please e.g. 75.1.143, **not** Latest version as that's relative)
+
 - Are you using `WPF/WinForms/OffScreen`?
+
 - Are you targeting .Net Core? If yes which version?
-- No images of code/exceptions please, if you have a more than a few lines of code then please use [Gist](http://gist.github.com/), [Pastebin](https://pastebin.com/), [JsFiddle](https://jsfiddle.net/), [ControlC](https://controlc.com/) or similar. Post a link to your relative resource.
+
+- No images of code/exceptions please, if you have a more than a few lines of code then please use [Gist](http://gist.github.com/), [Pastebin](https://pastebin.com/), [JsFiddle](https://jsfiddle.net/), [ControlC](https://controlc.com/) or similar. Post a link to example, 
+
 - The [CefSharp.MinimalExample](https://github.com/cefsharp/CefSharp) is kept up to date with the latest version
   - You can use it for testing purposes
   - Take the project for a spin
