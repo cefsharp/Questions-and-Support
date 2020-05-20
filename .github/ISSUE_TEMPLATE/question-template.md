@@ -1,7 +1,7 @@
 ---
 name: Question template
 about: Questions
-title: 'Questions about CefSharp'
+title: ''
 labels: ''
 assignees: ''
 
