@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+With the launch of Discussions feature here on GitHub you can now ask your question in the main repository at https://github.com/cefsharp/CefSharp/discussions
+
 - What version are you using? (exact version please e.g. 75.1.143, **not** Latest version as that's relative)
 
 - Are you using `WPF/WinForms/OffScreen`?
