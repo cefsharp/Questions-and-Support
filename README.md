@@ -1,2 +1,2 @@
 # Questions and Support
-Use this repository to ask CefSharp specific questions. 
+Please use https://github.com/cefsharp/CefSharp/discussions to ask `CefSharp` specific questions.
